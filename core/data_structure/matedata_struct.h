@@ -1,0 +1,4 @@
+#ifndef MATEDATA_STRUCT_H
+#define MATEDATA_STRUCT_H
+
+#endif // MATEDATA_STRUCT_H
